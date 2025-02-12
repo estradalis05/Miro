@@ -1,2 +1,2 @@
 # Miro
-entrega de wibeframe ecommerce personal 
+entrega de wireframe ecommerce personal 
